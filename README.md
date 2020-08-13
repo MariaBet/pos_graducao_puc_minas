@@ -6,4 +6,5 @@ Repositório Destinado ao estudos da pós graduação da PUC Minas em Inteligên
 ##### [PUC MINAS](https://www.pucminas.br/PucVirtual/Pos-Graduacao/Paginas/Inteligencia-Artificial-e-Aprendizado-de-Maquina.aspx)
 
 
-* Fundamentos da  Linguagem Python I 
+* Fundamentos da  Linguagem Python I [I](https://github.com/MariaBet/pos_graducao_puc_minas/tree/master/Fundamentos-da-Linguagem-Python-I)
+
