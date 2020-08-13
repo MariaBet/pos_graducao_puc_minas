@@ -3,4 +3,4 @@ Repositório Destinado ao estudos da pós graduação da PUC Minas em Inteligên
 
 ![logo puc](https://github.com/MariaBet/pos_graducao_puc_minas/blob/master/logo.png)
 
-##### <https://www.pucminas.br/PucVirtual/Pos-Graduacao/Paginas/Inteligencia-Artificial-e-Aprendizado-de-Maquina.aspx>
+##### [PUC MINAS](https://www.pucminas.br/PucVirtual/Pos-Graduacao/Paginas/Inteligencia-Artificial-e-Aprendizado-de-Maquina.aspx)
