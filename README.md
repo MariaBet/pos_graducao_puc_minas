@@ -7,4 +7,5 @@ Repositório Destinado ao estudos da pós graduação da PUC Minas em Inteligên
 
 
 * Fundamentos da  Linguagem Python I [Unidade I](https://github.com/MariaBet/pos_graducao_puc_minas/tree/master/Fundamentos-da-Linguagem-Python-I)
+* Fundamentos da  Linguagem Python II [Unidade II](https://github.com/MariaBet/pos_graducao_puc_minas/tree/master/Fundamentos%20da%20%20Linguagem%20Python%20II)
 
